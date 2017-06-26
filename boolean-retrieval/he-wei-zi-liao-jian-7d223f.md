@@ -7,7 +7,7 @@
 * 資料的種類:
 <pre>
 ①Pure Text </br>
-例如 : HTML、XML、office、PDF、ZIP </p>
+例如 : HTML、XML、office、PDF、ZIP </br>
 ②多媒體
 </pre>
 
