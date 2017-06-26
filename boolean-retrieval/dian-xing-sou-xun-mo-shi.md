@@ -3,7 +3,8 @@
 ![](/Img/Image02.png)
 
 **我們平時遇到問題就會馬上Goole尋找資訊，上圖示典型的資料搜尋模型 :**
-<blockquote>1.Task 問題產生</br>2.Info Need 問題需求 
+<pre><blockquote>1.Task 問題產生
+2.Info Need 問題需求 
 3.Verbal form 轉成口語化的形式
 4.Query 查詢
 5.Search engine 搜尋引擎  ex:Google、Yahoo、Bing
