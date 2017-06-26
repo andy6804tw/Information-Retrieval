@@ -14,7 +14,7 @@ Q1.1: Brutus AND Caesar but NOT Brutrs
 <pre>_solution:_<blockquote>
     Brutus => 110100
     Caesar =>110111
-    !Brutrs =>!(010000)=>101111</br>
+    !Brutrs =>!(010000)=>101111  </br>
     ![](/Img/exerxise1.1.png)
     
     
