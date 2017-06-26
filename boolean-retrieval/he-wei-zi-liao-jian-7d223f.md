@@ -1,5 +1,4 @@
 # 資料檢索 Information retrieval\(IR\)
-
 #### 何謂資料檢索?
 ![](https://isquared.files.wordpress.com/2011/03/wordle.jpg)
 
