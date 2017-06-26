@@ -6,7 +6,7 @@
 
 ### Exercise1:
 
-![](/Img/圖片1.png "1123")  
+![](/Img/exercise1.png "1123")  
 
 
 Q1.1: Brutus AND Caesar but NOT Brutrs

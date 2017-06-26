@@ -1,6 +1,7 @@
 # 資料檢索 Information retrieval\(IR\)
 
 #### 何謂資料檢索?
+![](https://isquared.files.wordpress.com/2011/03/wordle.jpg)
 
 * 資料檢索又簡稱\(IR\)，是從一個大的且為結構化本質的資料中去滿足資訊的需求。
 * 關聯性資料庫\(relational database\)是結構化的資料\(structured data\)。
@@ -20,3 +21,4 @@
 
 
 
+![](/Img/Image01.png)
