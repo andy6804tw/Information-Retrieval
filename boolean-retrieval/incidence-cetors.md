@@ -12,11 +12,18 @@
 Q1.1: Brutus AND Caesar but NOT Brutrs
 
 <pre>_solution:_<blockquote>
-    Brutus => 110100
-    Caesar =>110111
-    !Brutrs =>!(010000)=>101111  
+    Brutus  => 110100
+    Caesar  => 110111
+    !Brutrs => !(010000)=>101111  
     &nbsp
     ![](/Img/exerxise1.1.png)
     
     
-Q1.2:
+Q1.2:Calpurnia OR mercy but NOT Brutus
+
+<pre>_solution:_<blockquote>
+    Calpurnia => 010000
+    Mercy     => 10111
+    !Brutrs   => !(010000)=>101111 
+    &nbsp
+    ![](/Img/exerxise1.2.png)
