@@ -22,12 +22,12 @@
 
 (1)Draw the term –document incidence matrix
 <pre>_solution:_<blockquote>
-    題目是要你寫出每個單字term發生次數的矩陣，故如下圖
+    題目是要你寫出每個單字term發生次數的矩陣，故如下圖<br>
     ![](/Img/exerxise1.5-1.png)
 
 (2)Draw the inverted index representation
 <pre>_solution:_<blockquote>
-    題目是要你畫出Postings lists，故如下圖
+    題目是要你畫出Postings lists，故如下圖<br>
     ![](/Img/exerxise1.5-2.png)
 
 (3)query  schizophrenia AND drug
@@ -43,7 +43,7 @@
     for                  => 1011
     drug                 => 1100         
     approach             => 0010
-    !(drug OR approach)  => !1110 => 0001<p>
+    !(drug OR approach)  => !1110 => 0001<br>
     ![](/Img/exerxise1.5-4.png)
 
 
