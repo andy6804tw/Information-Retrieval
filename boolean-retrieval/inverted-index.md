@@ -19,7 +19,7 @@
 
 #### Exercise1-5:
 
-![](/Img/exerxise1.5.png)</br>
+![](/Img/exerxise1.5.png)</p>
 (1)Draw the term –document incidence matrix
 <pre>_solution:_<blockquote>
 題目是要你寫出每個單字term發生次數的矩陣，故如下圖<p>
