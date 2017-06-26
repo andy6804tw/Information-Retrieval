@@ -15,7 +15,7 @@ Q1.1: Brutus AND Caesar but NOT Brutrs
     Brutus => 110100
     Caesar =>110111
     !Brutrs =>!(010000)=>101111  
-    </br>
+    &nbsp
     ![](/Img/exerxise1.1.png)
     
     
