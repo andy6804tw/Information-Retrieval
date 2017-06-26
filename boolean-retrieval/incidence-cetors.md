@@ -15,7 +15,6 @@ Q1.1: Brutus AND Caesar but NOT Brutrs
     Brutus  => 110100
     Caesar  => 110111
     !Brutrs => !(010000)=>101111  
-    &nbsp
     ![](/Img/exerxise1.1.png)
     
     
@@ -25,5 +24,4 @@ Q1.2:Calpurnia OR mercy but NOT Brutus
     Calpurnia => 010000
     Mercy     => 10111
     !Brutrs   => !(010000)=>101111 
-    &nbsp
     ![](/Img/exerxise1.2.png)
