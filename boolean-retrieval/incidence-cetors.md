@@ -1,4 +1,4 @@
-# 反式向量 Incidence vectors
+# 發生向量 Incidence vectors
 
 * 文件少、相似度高時較有效率
 
