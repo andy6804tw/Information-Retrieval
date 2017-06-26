@@ -19,7 +19,34 @@
 
 #### Exercise1-5:
 ![](/Img/exerxise1.5.png)<br>
+
 (1)Draw the term –document incidence matrix
 <pre>_solution:_<blockquote>
-題目是要你寫出每個單字term發生次數的矩陣，故如下圖<p>
-![](/Img/exerxise1.5-1.png)
+    題目是要你寫出每個單字term發生次數的矩陣，故如下圖
+    ![](/Img/exerxise1.5-1.png)
+
+(2)Draw the inverted index representation
+<pre>_solution:_<blockquote>
+    題目是要你畫出Postings lists，故如下圖
+    ![](/Img/exerxise1.5-2.png)
+
+(3)query  schizophrenia AND drug
+<pre>_solution:_<blockquote>
+    schizophrenia => 1111
+    drug          => 1100<br>
+    ![](/Img/exerxise1.5-3.png)
+
+(4)for AND NOT (drug OR approach)
+
+<pre>_solution:_<blockquote>
+    這題稍複雜，查詢for和非(drug或approach)
+    for                  => 1011
+    drug                 => 1100         
+    approach             => 0010
+    !(drug OR approach)  => !1110 => 0001<p>
+    ![](/Img/exerxise1.5-4.png)
+
+
+
+
+
