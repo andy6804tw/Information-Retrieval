@@ -1,5 +1,5 @@
 # 發生向量 Incidence vectors
-
+---
 * 文件少、相似度高時較有效率
 
 * Incidence vetors顧名思義就是以向量\(0與1\)表示文件的有無
