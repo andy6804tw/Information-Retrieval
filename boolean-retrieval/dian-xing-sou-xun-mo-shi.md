@@ -7,7 +7,7 @@
 2.Info Need 問題需求 
 3.Verbal form 轉成口語化的形式
 4.Query 查詢
-5.Search engine 搜尋引擎 ex:Google、Yahoo、Bing
+5.Search engine 搜尋引擎  ex:Google、Yahoo、Bing
 6.Corpus 搜尋網路素材可用資訊
 7.Resule 呈現結果
 8.Query reflnement 若不是想要的就再修正重新查詢
