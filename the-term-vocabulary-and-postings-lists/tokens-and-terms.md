@@ -72,15 +72,5 @@ for example compressed and compression are both accepted as equivalent to compre
 ### Porters's algorithm
 
 將單字回歸原型並依依照下列規則 :<br>
-sses → ss<br>
-ies → i<br>
-ational → ate<br>
-tional → tion<br>
-ss → s<br>
-s → 去除<br>
-
-ex:<br>
-caresses → caress<br>
-ponies → poni
-caress → cares
-cats → cat
+sses → ss<br>ies → i<br>ational → ate<br>tional → tion<br>ss →s<br>s → 去除<br>
+ex:<br>caresses → caress<br>ponies → poni<br>caress → cares<br>cats → cat
