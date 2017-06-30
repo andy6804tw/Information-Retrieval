@@ -70,17 +70,17 @@ for example compressed and compression are both accepted as equivalent to compre
 → for exampl compress and compress ar both accept as equival to compress
 
 ### Porters's algorithm
-<p>
-將單字回歸原型並依依照下列規則 :
-sses → ss
-ies → i
-ational → ate
-tional → tion
-ss → s
-s → 去除
 
-ex:
-caresses → caress
+將單字回歸原型並依依照下列規則 :<br>
+sses → ss<br>
+ies → i<br>
+ational → ate<br>
+tional → tion<br>
+ss → s<br>
+s → 去除<br>
+
+ex:<br>
+caresses → caress<br>
 ponies → poni
 caress → cares
 cats → cat
