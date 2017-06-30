@@ -70,7 +70,7 @@ for example compressed and compression are both accepted as equivalent to compre
 → for exampl compress and compress ar both accept as equival to compress
 
 ### Porters's algorithm
-
+<p>
 將單字回歸原型並依依照下列規則 :
 sses → ss
 ies → i
