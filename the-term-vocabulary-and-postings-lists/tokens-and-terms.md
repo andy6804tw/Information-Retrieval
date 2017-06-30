@@ -9,43 +9,31 @@ Friends, Romans and Countrymen
     Romans
     Countrymen
     
-這裡要思考的是所有單字都是要這樣以空白切開嗎?並不全然!
-例如國家地區:San Francisco
-若切開兩個單字並無意義了
+這裡要思考的是所有單字都是要這樣以空白切開嗎?並不全然!<br>例如國家地區:San Francisco<br>若切開兩個單字並無意義了
 
 ###Number
 
-數字是非常難去判斷切割的每個地區或國家都有習慣的呈現方式
-例如日期:
-3/12/91
-Mar. 12, 1911
-55 B.C.
-B-52
+數字是非常難去判斷切割的每個地區或國家都有習慣的呈現方式<br>例如日期:<br>3/12/91<br>Mar. 12, 1911<br>55 B.C.<br>B-52
 
 ### Stop words
 
 the、a、and、to、be這些都是介詞、貫詞、連接詞
 所以在字典中可以不必出現，一方面可以減少字典大小。
-不過這也是要取捨的萬一這些名詞是有意義的片語呢?
-ex : To be or not to be、Let it be
+不過這也是要取捨的萬一這些名詞是有意義的片語呢?<br>ex : To be or not to be、Let it be
 
 
 
 ### Normalization 正規化
 
-目的 : 減少字典大小。
-優點 : 不用去查詢字典。
-缺點 : 資訊變多，資訊變資料。
+目的 : 減少字典大小。<br>優點 : 不用去查詢字典。<br>缺點 : 資訊變多，資訊變資料。
 
 ### Case folding 大小寫統一
 
-不是所有字都可以轉小寫，因為有些情況必須保持大寫。ex: USA。
-目的 : 減少字典大小。
+不是所有字都可以轉小寫，因為有些情況必須保持大寫。ex: USA。<br>目的 : 減少字典大小。
 
 ### Synonyms 同義字
 
-car = automobile 
-以人工去建，對等關係，當輸入某一個字詞時，會查詢到她的同義字。
+car = automobile <br>以人工去建，對等關係，當輸入某一個字詞時，會查詢到她的同義字。
 
 ### Homonyms 同音字
 
@@ -53,13 +41,10 @@ car = automobile
 
 ### Lemmatization 標題化
 
-目的 : 減少字典大小。
-am、are、is → be
-car、cars、car's → car
+目的 : 減少字典大小。<br>am、are、is → be<br>car、cars、car's → car
 
-ex:
-the boy's cars are different colors
-→ the boy car be different color
+ex:<br>
+the boy's cars are different colors<br>→ the boy car be different color
 
 ### Stemming 抽梗
 
