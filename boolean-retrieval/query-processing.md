@@ -37,6 +37,9 @@ public class Main{
 
 }
 ```
+<pre>_Output:_
+	x AND y => 2 8 
+	
 各位想想這樣的時間複雜度會是多少呢 ? 只有一個迴圈跑所以當時是O(x+y)。
 
 
