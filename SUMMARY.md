@@ -10,4 +10,6 @@
   * [Query processing](boolean-retrieval/query-processing.md)
   * [布林查詢](boolean-retrieval/bu-lin-cha-xun.md)
   * [Query optimization](boolean-retrieval/query-optimization.md)
+* [The term vocabulary and postings lists](the-term-vocabulary-and-postings-lists.md)
+  * [Tokens and Terms](the-term-vocabulary-and-postings-lists/tokens-and-terms.md)
 
