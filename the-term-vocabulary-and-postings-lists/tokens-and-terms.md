@@ -14,6 +14,7 @@ Friends, Romans and Countrymen
 若切開兩個單字並無意義了
 
 ###Number
+
 數字是非常難去判斷切割的每個地區或國家都有習慣的呈現方式
 例如日期:
 3/12/91
@@ -69,6 +70,7 @@ for example compressed and compression are both accepted as equivalent to compre
 → for exampl compress and compress ar both accept as equival to compress
 
 ### Porters's algorithm
+
 將單字回歸原型並依依照下列規則 :
 sses → ss
 ies → i
