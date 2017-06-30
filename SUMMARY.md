@@ -7,4 +7,7 @@
   * [Precision and Recall](boolean-retrieval/precision-and-recall.md)
   * [Incidence vectors](boolean-retrieval/incidence-cetors.md)
   * [Inverted index](boolean-retrieval/inverted-index.md)
+  * [Query processing](boolean-retrieval/query-processing.md)
+  * [布林查詢](boolean-retrieval/bu-lin-cha-xun.md)
+  * [Query optimization](boolean-retrieval/query-optimization.md)
 
