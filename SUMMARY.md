@@ -12,4 +12,5 @@
   * [Query optimization](boolean-retrieval/query-optimization.md)
 * [The term vocabulary and postings lists](the-term-vocabulary-and-postings-lists.md)
   * [Tokens and Terms](the-term-vocabulary-and-postings-lists/tokens-and-terms.md)
+  * [Faster postings merges](the-term-vocabulary-and-postings-lists/faster-postings-merges.md)
 
