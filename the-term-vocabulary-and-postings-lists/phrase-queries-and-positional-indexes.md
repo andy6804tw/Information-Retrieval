@@ -7,10 +7,7 @@
 
 ## 雙字索引(Biword indexex)
 
-缺點:字典變大
-優點:節省搜尋時間，兩字一組
-①去除死字
-②只對名詞做biword
+缺點:字典變大<br>優點:節省搜尋時間，兩字一組<br>①去除死字<br>②只對名詞做biword
 
 ex: cost overruns on a power plant
 => Biword (cost overruns) (overruns power) (power plant)
