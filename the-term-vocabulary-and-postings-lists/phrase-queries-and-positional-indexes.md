@@ -47,10 +47,8 @@ Assume a biword index. Give an exmple of a document which will be returned for a
 #### Exercise2-5:
 
 Are the following statments true or flse?<br>
-a. In a Boolean retrieval system, stemming never lowers precision.
-b. In a Boolean retrieval system, stemming never lowers recall.
-c. Stemming increases the size of the vocabulary.
-d. Stemming should be invoked at indexing time but not while processing a query.
+a. In a Boolean retrieval system, stemming never lowers precision.<br>b. In a Boolean retrieval system, stemming never lowers recall.<br>c. Stemming increases the size of the vocabulary.<br>
+d. Stemming should be invoked at indexing time but not while<br>processing a query.<br>
 <pre>_solution:_<blockquote>
     Ans: a. False
          b. True
