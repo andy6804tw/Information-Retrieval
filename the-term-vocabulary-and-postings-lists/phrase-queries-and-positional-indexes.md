@@ -30,5 +30,29 @@ Assume a biword index. Give an exmple of a document which will be returned for a
     
     
 #### Exercise2-4:
-使用位置索引查詢下列片語可能在哪幾個文件當中
 
+使用位置索引查詢下列片語可能在哪幾個文件當中
+![](/Img/exercise2.4.png)
+
+(1): fool rush in
+
+<pre>_solution:_<blockquote>
+    Ans: Doc 2、4、7
+    
+(2): "fool rush in" AND "angles fear to tread"
+
+<pre>_solution:_<blockquote>
+    Ans: Doc 4
+
+#### Exercise2-5:
+
+Are the following statments true or flse?<br>
+a. In a Boolean retrieval system, stemming never lowers precision.
+b. In a Boolean retrieval system, stemming never lowers recall.
+c. Stemming increases the size of the vocabulary.
+d. Stemming should be invoked at indexing time but not while processing a query.
+<pre>_solution:_<blockquote>
+    Ans: a. False
+         b. True
+         c. False
+         d. False
